@@ -12,5 +12,10 @@ namespace fukuv0531
             int vy = 15;
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = ;
+        }
     }
 }
